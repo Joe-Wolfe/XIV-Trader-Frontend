@@ -15,7 +15,7 @@ const xivApi = axios.create({
 
 //gunna need to change this to the backend API before deploying
 const backendApi = axios.create({
-    baseURL: "http://localhost:3001/items",
+    baseURL: "https://xiv-trader-backend.onrender.com/items",
 });
 
 async function getDataCenters() {
