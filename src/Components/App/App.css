@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1280px;
+  min-height: 90vh;
+
+}
+
+body {
+  background-color: black;
+}

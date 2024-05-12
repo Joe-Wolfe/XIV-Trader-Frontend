@@ -1,0 +1,35 @@
+.MarketTable {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.MarketTable .table th {
+    height: 4.2em;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+
+.MarketTableButton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 10%;
+    padding: 10px;
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}

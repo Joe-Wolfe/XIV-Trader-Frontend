@@ -1,0 +1,18 @@
+.MarketDataTd {
+    height: 3em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.MarketTable {
+    max-height: 40%;
+}
+
+.MarketTableCheckBox {
+
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+    margin-top: -40px;
+}
