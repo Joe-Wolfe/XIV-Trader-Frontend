@@ -1,8 +1,8 @@
-# React + Vite
+This is the Front End of my capstone project for SpringBoard. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Project is intended for use by My girlfriend, myself, and all the other Warriors of Light out there who do not know what to spend their extra tomestones. The goal is to use the XIVAPI and the Universalis API to quickly see what is the most valuable items that can be exchanged for are. Simply fill out the forms and you will see a table that shows all the available trades and their current market board rates for you server. 
 
-Currently, two official plugins are available:
+APIs used 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+XIVAPI - https://xivapi.com/
+Universalis - https://docs.universalis.app/
